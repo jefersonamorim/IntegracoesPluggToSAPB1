@@ -1,0 +1,15 @@
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\bin\Release\IntegracoesPluggto.exe.config
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\bin\Release\IntegracoesPluggto.exe
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\bin\Release\IntegracoesPluggto.pdb
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\bin\Release\Newtonsoft.Json.dll
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\bin\Release\RestSharp.dll
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\bin\Release\SAPBusinessOneSDK.dll
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\bin\Release\Newtonsoft.Json.xml
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\bin\Release\RestSharp.xml
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\obj\Release\IntegracoesPluggto.ProjectInstaller.resources
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\obj\Release\IntegracoesPluggto.csproj.GenerateResource.cache
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\obj\Release\IntegracoesPluggto.csproj.CoreCompileInputs.cache
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\obj\Release\IntegracoesPluggto.csproj.CopyComplete
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\obj\Release\IntegracoesPluggto.exe
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\obj\Release\IntegracoesPluggto.pdb
+C:\Jeferson\Pluggto\Projeto\IntegracoesPluggto\obj\Release\IntegracoesPluggto.csprojAssemblyReference.cache

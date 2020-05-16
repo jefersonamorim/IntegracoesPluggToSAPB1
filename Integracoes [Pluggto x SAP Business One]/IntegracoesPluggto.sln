@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegracoesPluggto", "IntegracoesPluggto.csproj", "{62E2EC3C-0F47-4EBB-BBA9-71600F0CC12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E2EC3C-0F47-4EBB-BBA9-71600F0CC12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E2EC3C-0F47-4EBB-BBA9-71600F0CC12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E2EC3C-0F47-4EBB-BBA9-71600F0CC12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E2EC3C-0F47-4EBB-BBA9-71600F0CC12C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29431D95-632D-4801-AB16-42DD26EB7352}
+	EndGlobalSection
+EndGlobal
